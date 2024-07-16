@@ -1,0 +1,17 @@
+.buttonCont {
+
+    max-width: 90%;
+    margin-top: 10px;
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.button {
+    height: 45px;
+    width: 45px;
+    border: 1px solid rgba(59, 53, 53, 0.136);
+    outline: none;
+}
